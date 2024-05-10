@@ -49,7 +49,3 @@ The code loads the pre-trained CNN model from the `model.h5` file using `keras.m
 **Overall Functionality:**
 
 Users can upload an image of a medicinal leaf, and the pre-trained model predicts the leaf species along with a confidence score. The results are displayed conveniently within the Streamlit app.
-
-**Note:**
-
-This document describes the core functionalities. Additional details about the pre-trained model, specific image pre-processing techniques, and visualization aspects (if applicable) can be included based on your project's specifics.
